@@ -10,10 +10,8 @@
 
 <h3 align="center"> Relational Drawing</h3>
 
-  
-
 <div align="center">
-  <img src="https://github.com/justincarr010101/Covid-Database/blob/main/images/page1.png" alt="Relational Drawing Image" width="25" height="150">
+  <img src="https://github.com/justincarr010101/Covid-Database/blob/main/images/Updated ER Diagram.png" alt="Relational Drawing Image" width="25" height="150">
 </div>
 
 <h3 align="center"> MySQL script</h3>
