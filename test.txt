@@ -1,0 +1,19 @@
+<!doctype html>
+<head>
+  <title>Covid Database</title>
+  <link rel="stylesheet" href="css/mycss.css">
+</head>
+
+<body>
+<?php
+include 'connectdb.php';
+?>
+<h1>The Title of This Page</h1>
+<p>This is a paragraph.</p>
+<ol>Here is a list:
+<li>Item 1</li>
+<li>Item 2</li>
+</ol>
+
+</body>
+</html>
