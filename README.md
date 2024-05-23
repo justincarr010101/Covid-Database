@@ -1,15 +1,15 @@
-<p align="center">
-  <a href="http://materializecss.com/">
-    <img hred ="./images/page1" width="150">
-  </a>
-</p>
 
-<h3 align="center">MaterializeCSS</h3>
+
+This project showcases experience in PHP, HTML, JavaScript, CSS, and relational databases. It involves building a database-driven web application for managing COVID-related data.
+
+![Relational Drawing Image](../images/relationaldrawing.jpg)
+
+<h3 align="center"> Covid Database Project</h3>
 
 <p align="center">
-  Materialize, a CSS Framework based on material design.
+  This project showcases experience in PHP, HTML, JavaScript, CSS, and relational databases. It involves building a database-driven web application for managing COVID-related data.
   <br>
-  <a href="http://materializecss.com/"><strong>-- Browse the docs --</strong></a>
+ ![Relational Drawing Image](../images/relationaldrawing.jpg)
   <br>
   <br>
   <a href="https://travis-ci.org/Dogfalo/materialize">
