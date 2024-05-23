@@ -1,6 +1,6 @@
 <h3 align="center"> Covid Database Project</h3>
 
-<img src="[../images/page1.jpg](https://github.com/justincarr010101/Covid-Database/blob/main/images/page1.png)" alt="Relational Drawing Image" align="center" width="25" height="150">
+<img href="https://github.com/justincarr010101/Covid-Database/blob/main/images/page1.png" alt="Relational Drawing Image" align="center" width="25" height="150">
 
 <p align="center">
   This project showcases experience in PHP, HTML, JavaScript, CSS, and relational databases. It involves building a database-driven web application for managing COVID-related data.
